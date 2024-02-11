@@ -18,9 +18,11 @@ ACERCA DE LA APLICACION "SOLO TRES HABITACIONES"
 Servidor y cliente que se comunican mediante sockets TCP.
 
 ● El cliente cuenta una trama al usuario y le introduce en el juego
+
 ● El usuario lanzara 10 dados de 6 caras con la intencion de no superar un numero maximo
 que se define como variable en el cliente. Si el usuario considera que el numero es
 muy bajo puede repetir la tirada de diez dados tantas veces como desee.
+
 ● Cuando termina el juego se muestra el top 3 del juego para ver si el usuario esta
 en ese listado.
 
